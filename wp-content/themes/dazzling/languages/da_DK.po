@@ -1,298 +1,291 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Dazzling Theme Spanish\n"
-"POT-Creation-Date: 2016-03-18 11:18+0200\n"
-"PO-Revision-Date: 2016-03-18 11:18+0200\n"
+"Project-Id-Version: Dazzling Theme\n"
+"POT-Creation-Date: 2016-03-18 11:17+0200\n"
+"PO-Revision-Date: 2016-03-18 11:17+0200\n"
 "Last-Translator: Aigars Silkalns <a.silkalns@gmail.com>\n"
 "Language-Team: colorlib <info@colorlib.com>\n"
-"Language: it_IT\n"
+"Language: da_DK\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.8.7\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Poedit-KeywordsList: _e;__;esc_attr__;_nx:4c,1,2;esc_attr_e;_n;_n:1,2;"
-"esc_attr_x\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr_e;_n;_n:1,2;esc_attr__;esc_attr_x;"
+"_nx:4c,1,2\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPath-1: ..\n"
 
 #: ../404.php:14
 msgid "Oops! That page can&rsquo;t be found."
-msgstr "Oops, questa pagina non è stata trovata!"
+msgstr "Ups, det var en nitte! :( Siden, du leder efter findes ikke."
 
 #: ../404.php:18
 msgid ""
 "It looks like nothing was found at this location. Maybe try one of the links "
 "below or a search?"
 msgstr ""
-"Sembra che non sia  stato trovato niente in questa posizione. Forse è il "
-"caso di provare uno dei link sottostanti o una ricerca?"
+"Der blev ikke fundet noget her. Prøv eet af links'ene herunder eller prøv at "
+"søge."
 
 #: ../404.php:26
 msgid "Most Used Categories"
-msgstr "Categorie più utilizzate"
+msgstr "Mest anvendte kategorier"
 
 #: ../404.php:43
 #, php-format
 msgid "Try looking in the monthly archives. %1$s"
-msgstr "Prova a guardare negli archivi mensili. %1$s"
+msgstr "Prøv at lede i historikken. %1$s"
 
 #: ../archive.php:26
 #, php-format
 msgid "Author: %s"
-msgstr "Autore: %s"
+msgstr "Forfatter: %s"
 
 #: ../archive.php:29
 #, php-format
 msgid "Day: %s"
-msgstr "Giorno: %s"
+msgstr "Dag: %s"
 
 #: ../archive.php:32
 #, php-format
 msgid "Month: %s"
-msgstr "Mese: %s"
+msgstr "Måned: %s"
 
 #: ../archive.php:35
 #, php-format
 msgid "Year: %s"
-msgstr "Anno: %s"
+msgstr "År: %s"
 
 #: ../archive.php:38
 msgid "Asides"
-msgstr ""
+msgstr "Sidebemærkninger"
 
 #: ../archive.php:41
 msgid "Galleries"
-msgstr "Gallerie"
+msgstr "Gallerier"
 
 #: ../archive.php:44
 msgid "Images"
-msgstr "Immagini"
+msgstr "Billeder"
 
 #: ../archive.php:47
 msgid "Videos"
-msgstr "Video"
+msgstr "Video'er"
 
 #: ../archive.php:50
 msgid "Quotes"
-msgstr ""
+msgstr "Citater"
 
 #: ../archive.php:53
-#, fuzzy
 msgid "Links"
-msgstr "Link a reti sociali"
+msgstr "Links"
 
 #: ../archive.php:56
 msgid "Statuses"
-msgstr ""
+msgstr "Status"
 
 #: ../archive.php:59
 msgid "Audios"
-msgstr "Audio"
+msgstr "Lyd"
 
 #: ../archive.php:62
 msgid "Chats"
-msgstr ""
+msgstr "Chat"
 
 #: ../archive.php:65 ../sidebar.php:17
 msgid "Archives"
-msgstr "Archivi"
+msgstr "Historik"
 
 #: ../comments.php:28
 #, php-format
 msgctxt "comments title"
 msgid "One thought on &ldquo;%2$s&rdquo;"
 msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "En kommentar til &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s kommentarer til &ldquo;%2$s&rdquo;"
 
 #: ../comments.php:35 ../comments.php:59
-#, fuzzy
 msgid "Comment navigation"
-msgstr "Navigazione nei commenti"
+msgstr "Kommentarlæsning"
 
 #: ../comments.php:36 ../comments.php:60
 msgid "&larr; Older Comments"
-msgstr "Commenti Precedenti"
+msgstr "&larr; Ældre kommentarer"
 
 #: ../comments.php:37 ../comments.php:61
 msgid "Newer Comments &rarr;"
-msgstr "Commenti Recenti"
+msgstr "Nyere kommentarer &rarr;"
 
 #: ../comments.php:71
 msgid "Comments are closed."
-msgstr "I commenti sono chiusi"
+msgstr "Der er lukket for kommentarer."
 
 #: ../content-none.php:13
 msgid "Nothing Found"
-msgstr "Non è stato trovato nulla"
+msgstr "Intet fundet"
 
 #: ../content-none.php:19
 #, php-format
 msgid ""
 "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
 msgstr ""
+"Klar til at offentliggøre dit første indlæg? <a href=\"%1$s\">Start her</a>."
 
 #: ../content-none.php:23
 msgid ""
 "Sorry, but nothing matched your search terms. Please try again with some "
 "different keywords."
-msgstr ""
-"Non è stato trovato nulla che corrisponda ai termini di ricerca. Riprova con "
-"alcune parole chiave diverse."
+msgstr "Beklager, intet matchede dine søgeord. Prøv igen med andre søgeord."
 
 #: ../content-none.php:28
 msgid ""
 "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
 "searching can help."
 msgstr ""
-"Sembra che non riusciamo a trovare quello che stai cercando. Forse una "
-"ricerca può aiutare."
+"Det ser ud til, vi ikke kan finde, hvad du leder efter. Måske kan du prøve "
+"med en søgning."
 
 #: ../content-page.php:18 ../content-single.php:23 ../content.php:61
 #: ../image.php:81
 msgid "Pages:"
-msgstr "Pagine"
+msgstr "Sider:"
 
 #: ../content-page.php:29 ../content-single.php:67 ../content.php:30
 #: ../inc/template-tags.php:81 ../inc/template-tags.php:100
 msgid "Edit"
-msgstr "Modifica\t"
+msgstr "Rediger"
 
 #: ../content-single.php:36 ../content-single.php:39 ../content.php:21
 msgid ", "
-msgstr ""
+msgstr ","
 
 #: ../content-single.php:44 ../content-single.php:46 ../content-single.php:52
 #: ../content-single.php:54
 msgid "permalink"
-msgstr ""
+msgstr "permalink"
 
 #: ../content.php:15
 msgid "Leave a comment"
-msgstr "Lascia un commento"
+msgstr "Skriv en kommentar"
 
 #: ../content.php:15
 msgid "1 Comment"
-msgstr "1 Commento\t"
+msgstr "1 kommentar"
 
 #: ../content.php:15
 msgid "% Comments"
-msgstr "% Commenti"
+msgstr "% kommentarer"
 
 #: ../content.php:25
-#, fuzzy, php-format
+#, php-format
 msgid " %1$s"
-msgstr "%1$s presso %2$s"
+msgstr " %1$s"
 
 #: ../content.php:39 ../content.php:54
 msgid "Continue reading"
-msgstr "Continua la lettura"
+msgstr "Læs mere"
 
 #: ../functions.php:59
 msgid "Primary Menu"
-msgstr "Menu principale"
+msgstr "Primær menu"
 
 #: ../functions.php:60 ../inc/extras.php:152
 msgid "Footer Links"
-msgstr ""
+msgstr "Links i sidefoden"
 
 #: ../functions.php:88
-#, fuzzy
 msgid "Sidebar"
-msgstr "Senza barra laterale"
+msgstr "Sidebar"
 
 #: ../functions.php:97
 msgid "Homepage Widget 1"
-msgstr ""
+msgstr "Hjemmeside widget 1"
 
 #: ../functions.php:98 ../functions.php:108 ../functions.php:118
 msgid "Displays on the Home Page"
-msgstr ""
+msgstr "Ses på hjemmesiden"
 
 #: ../functions.php:107
 msgid "Homepage Widget 2"
-msgstr ""
+msgstr "Hjemmeside widget 2"
 
 #: ../functions.php:117
 msgid "Homepage Widget 3"
-msgstr ""
+msgstr "Hjemmeside widget 3"
 
 #: ../functions.php:127
 msgid "Footer Widget 1"
-msgstr ""
+msgstr "Widget i sidefoden"
 
 #: ../functions.php:128 ../functions.php:138 ../functions.php:148
 msgid "Used for footer widget area"
-msgstr ""
+msgstr "Bruges til widget-område i sidefoden"
 
 #: ../functions.php:137
 msgid "Footer Widget 2"
-msgstr ""
+msgstr "Widget 2 i sidefoden"
 
 #: ../functions.php:147
 msgid "Footer Widget 3"
-msgstr ""
+msgstr "Widget 3 i sidefoden"
 
 #: ../header.php:29
 msgid "Toggle navigation"
-msgstr ""
+msgstr "Slå navigation til og fra"
 
 #: ../image.php:24
 msgid "<i class=\"fa fa-chevron-left\"></i> Previous"
-msgstr "<i class=\"fa fa-chevron-left\"></i> Precedente"
+msgstr "<i class=\"fa fa-chevron-left\"></i> Forrige"
 
 #: ../image.php:25
 msgid "Next <i class=\"fa fa-chevron-right\"></i>"
-msgstr "Sucessivo <i class=\"fa fa-chevron-right\"></i>"
+msgstr "Næste <i class=\"fa fa-chevron-right\"></i>"
 
 #: ../inc/customizer.php:38
-#, fuzzy
 msgid "Dazzling Options"
-msgstr "Documentazione di Dazzling "
+msgstr "Dazzling indstillinger"
 
 #: ../inc/customizer.php:39
 msgid "Panel to update dazzling theme options"
-msgstr ""
+msgstr "Område til Dazzling tema-indstillinger"
 
 #: ../inc/customizer.php:45
-#, fuzzy
 msgid "Slider options"
-msgstr "Opzioni del proiettore"
+msgstr "Slider indstillinger"
 
 #: ../inc/customizer.php:70
 msgid "Slider Category"
-msgstr ""
+msgstr "Slider kategori"
 
 #: ../inc/customizer.php:73
 msgid "Select a category for the featured post slider"
-msgstr ""
+msgstr "Vælg en kategori til slider'en til fremhævede indlæg"
 
 #: ../inc/customizer.php:83
 msgid "Number of slide items"
-msgstr ""
+msgstr "Antal indlæg i slider'en"
 
 #: ../inc/customizer.php:85
 msgid "Enter the number of slide items"
-msgstr ""
+msgstr "Indtast det ønskede antal indlæg i slider'en"
 
 #: ../inc/customizer.php:90
-#, fuzzy
 msgid "Layout options"
-msgstr "Opzioni di Layout"
+msgstr "Layout-indstillinger"
 
 #: ../inc/customizer.php:102
 msgid "Website Layout Options"
-msgstr ""
+msgstr "Layout-indstillinger for hjemmesiden"
 
 #: ../inc/customizer.php:105
 msgid "Choose between different layout options to be used as default"
-msgstr ""
+msgstr "Vælg mellem forskellige standard-layout-indstillinger"
 
 #: ../inc/customizer.php:115
 msgid "Element Color"
-msgstr ""
+msgstr "Element-farve"
 
 #: ../inc/customizer.php:116 ../inc/customizer.php:128
 #: ../inc/customizer.php:182 ../inc/customizer.php:192
@@ -301,348 +294,305 @@ msgstr ""
 #: ../inc/customizer.php:311 ../inc/customizer.php:418
 #: ../inc/customizer.php:429
 msgid "Default used if no color is selected"
-msgstr ""
+msgstr "Standardfarve som bruges, hvis en anden farve ikke er valgt"
 
 #: ../inc/customizer.php:127
 msgid "Element color on hover"
-msgstr ""
+msgstr "Element-farve ved mouse-over"
 
 #: ../inc/customizer.php:135
 msgid "Action Button"
-msgstr ""
+msgstr "Action-knap"
 
 #: ../inc/customizer.php:145
 msgid "Call For Action Text"
-msgstr ""
+msgstr "'Call for action'-tekst"
 
 #: ../inc/customizer.php:146
 msgid "Enter the text for call for action section"
-msgstr ""
+msgstr "Indtast tekst til 'Call for action'-elementet"
 
 #: ../inc/customizer.php:157
 msgid "Call For Action Button Title"
-msgstr ""
+msgstr "Titel til 'Call for action'-knap"
 
 #: ../inc/customizer.php:159
 msgid "Enter the title for Call For Action button"
-msgstr ""
+msgstr "Indtast titel til 'Call for action'-knap"
 
 #: ../inc/customizer.php:169
 msgid "CFA button link"
-msgstr ""
+msgstr "Link til 'Call for action'-knap"
 
 #: ../inc/customizer.php:171
 msgid "Enter the link for Call For Action button"
-msgstr ""
+msgstr "Indtast link til 'Call for action'-knap"
 
 #: ../inc/customizer.php:181
 msgid "Call For Action Text Color"
-msgstr ""
+msgstr "Tekstfarve til 'Call for action'-tekst"
 
 #: ../inc/customizer.php:191
 msgid "Call For Action Background Color"
-msgstr ""
+msgstr "Baggrundsfarve til 'Call for action'-knap"
 
 #: ../inc/customizer.php:201
 msgid "Call For Action Button Border Color"
-msgstr ""
+msgstr "Kantfarve til 'Call for action'-knap"
 
 #: ../inc/customizer.php:211
 msgid "Call For Action Button Text Color"
-msgstr ""
+msgstr "Tekstfarve til 'Call for action'-knap"
 
 #: ../inc/customizer.php:218
 msgid "Typography"
-msgstr ""
+msgstr "Typografi"
 
 #: ../inc/customizer.php:232
 msgid "Main Body Text"
-msgstr ""
+msgstr "Brødtekst"
 
 #: ../inc/customizer.php:233
 msgid "Used in p tags"
-msgstr ""
+msgstr "Brugt i <p> tags"
 
 #: ../inc/customizer.php:273
 msgid "Heading Color"
-msgstr ""
+msgstr "Farve til overskrift"
 
 #: ../inc/customizer.php:274
 msgid "Color for all headings (h1-h6)"
-msgstr ""
+msgstr "Farve til alle overskrifter (<h1>-<h6)"
 
 #: ../inc/customizer.php:283
 msgid "Link Color"
-msgstr ""
+msgstr "Farve til links"
 
 #: ../inc/customizer.php:293
 msgid "Link:hover Color"
-msgstr ""
+msgstr "Farve til link:hover"
 
 #: ../inc/customizer.php:300
-#, fuzzy
 msgid "Header"
-msgstr "Solo logo nell'intestazione"
+msgstr "Overskrift"
 
 #: ../inc/customizer.php:310
 msgid "Top nav background color"
-msgstr ""
+msgstr "Baggrundsfarve til top navigation"
 
 #: ../inc/customizer.php:320
 msgid "Top nav item color"
-msgstr ""
+msgstr "Farve til elementer i top navigation"
 
 #: ../inc/customizer.php:321
 msgid "Link color"
-msgstr ""
+msgstr "Link farve"
 
 #: ../inc/customizer.php:331
 msgid "Top nav dropdown background color"
-msgstr ""
+msgstr "Baggrundsfarve til drop-downs i top navigation"
 
 #: ../inc/customizer.php:332
 msgid "Background of dropdown item hover color"
-msgstr ""
+msgstr "Baggrundsfarve til drop-down elementer, der peges på"
 
 #: ../inc/customizer.php:342
 msgid "Top nav dropdown item color"
-msgstr ""
+msgstr "Farve til top navigation drop-down-elementer"
 
 #: ../inc/customizer.php:343
 msgid "Dropdown item color"
-msgstr ""
+msgstr "Farve til dropdown-elementer"
 
 #: ../inc/customizer.php:349
-#, fuzzy
 msgid "Footer"
-msgstr "Pie di pagina"
+msgstr "Sidefod"
 
 #: ../inc/customizer.php:359
 msgid "Footer widget area background color"
-msgstr ""
+msgstr "Baggrundsfarve i sidefodens widget-område"
 
 #: ../inc/customizer.php:369
 msgid "Footer background color"
-msgstr ""
+msgstr "Baggrundsfarve i sidefoden"
 
 #: ../inc/customizer.php:379
 msgid "Footer text color"
-msgstr ""
+msgstr "Tekstfarve i sidefoden"
 
 #: ../inc/customizer.php:389
 msgid "Footer link color"
-msgstr ""
+msgstr "Link-farve i sidefoden"
 
 #: ../inc/customizer.php:399
 msgid "Footer information"
-msgstr ""
+msgstr "Information i sidefoden"
 
 #: ../inc/customizer.php:400
 msgid "Copyright text in footer"
-msgstr ""
+msgstr "Copyright-tekst i sidefoden"
 
 #: ../inc/customizer.php:407
-#, fuzzy
 msgid "Social"
-msgstr "Introdurre gli URL delle tue reti sociali, ad es."
+msgstr "Social"
 
 #: ../inc/customizer.php:417
 msgid "Social icon color"
-msgstr ""
+msgstr "Farve på ikoner til sociale medier"
 
 #: ../inc/customizer.php:428
 msgid "Social Icon:hover Color"
-msgstr ""
+msgstr "Farve på valgt ikon til sociale medier"
 
 #: ../inc/customizer.php:439
 msgid "Footer Social Icons"
-msgstr ""
+msgstr "Ikoner til sociale medier i sidefoden"
 
 #: ../inc/customizer.php:440
 msgid "Check to show social icons in footer"
-msgstr ""
+msgstr "Vælg for at vise ikoner for sociale medier"
 
 #: ../inc/customizer.php:447
-#, fuzzy
 msgid "Other"
-msgstr "Altri"
+msgstr "Andet"
 
 #: ../inc/customizer.php:457
-#, fuzzy
 msgid "Custom CSS"
-msgstr "Introduci i tuoi stili CSS personalizzati"
+msgstr "Brugerdefineret CSS"
 
 #: ../inc/customizer.php:458
 msgid "Additional CSS"
-msgstr ""
+msgstr "Supplerende CSS"
 
 #: ../inc/customizer.php:465
 msgid "Support and Documentation"
-msgstr "Supporto e Documentazione"
+msgstr "Support og brugervejledning"
 
 #: ../inc/customizer.php:634
 msgid ""
 "The best way to contact us with <b>support questions</b> and <b>bug reports</"
 "b> is via"
 msgstr ""
+"Den bedste måde at kontakte os med <b>spørgsmål</b> og <b>fejl-rapportering</"
+"b> er via"
 
 #: ../inc/customizer.php:637
-#, fuzzy
 msgid "Rate this Theme"
-msgstr "Assegna un punteggio a questo tema"
+msgstr "Giv din vurdering af dette tema"
 
 #: ../inc/extras.php:71
 msgid ""
 "This post is password protected. To view it please enter your password below:"
 msgstr ""
+"Dette indlæg er beskyttet med kode. Indtast koden herunder for at læse "
+"indlægget:"
 
 #: ../inc/extras.php:72
 msgid "Password:"
-msgstr ""
+msgstr "Kodeord:"
 
 #: ../inc/extras.php:75
 msgid "Submit"
-msgstr ""
+msgstr "Send"
 
 #: ../inc/extras.php:266
 #, php-format
 msgid "Theme by %1$s Powered by %2$s"
-msgstr "Tema di %1$s Realizzato da %2$s"
+msgstr "Tema fra %1$s Drevet af %2$s"
 
 #: ../inc/metaboxes.php:16
-#, fuzzy
 msgid ""
 "Select layout for this specific Page only ( Note: This setting only reflects "
 "if page Template is set as Default Template and Blog Type Templates.)"
 msgstr ""
-"Seleziona layout solo per questa pagina specifica. (N.B.: questa selezione "
-"solo si attiva se il modello di pagina è settato come Default  o modelli di "
-"Blog)"
+"Vælg layout kun for denne side (Note: Denne indstilling virker kun, hvis "
+"side-skabelonen er indstillet som standard-skabelon og blog-type-skabeloner)."
 
 #: ../inc/metaboxes.php:21
-#, fuzzy
 msgid "Select layout for this specific Post only"
-msgstr "Seleziona il layour per questo specifico articolo"
+msgstr "Vælg layout kun for dette indlæg"
 
 #: ../inc/template-tags.php:23
 msgid "Posts navigation"
-msgstr ""
+msgstr "Naviger i indlæg"
 
 #: ../inc/template-tags.php:27
 msgid "<i class=\"fa fa-chevron-left\"></i> Older posts"
-msgstr "<i class=\"fa fa-chevron-left\"></i>Vecchi Articoli"
+msgstr "<i class=\"fa fa-chevron-left\"></i> Ældre indlæg"
 
 #: ../inc/template-tags.php:31
 msgid "Newer posts <i class=\"fa fa-chevron-right\"></i>"
-msgstr "Nuovi Articoli <i class=\"fa fa-chevron-right\"></i>"
+msgstr "Nyere indlæg <i class=\"fa fa-chevron-right\"></i>"
 
 #: ../inc/template-tags.php:56
 msgid "Post navigation"
-msgstr ""
+msgstr "Naviger i indlæg"
 
 #: ../inc/template-tags.php:81
-#, fuzzy
 msgid "Pingback:"
 msgstr "Pingback:"
 
 #: ../inc/template-tags.php:91
 #, php-format
 msgid "%s <span class=\"says\">says:</span>"
-msgstr "%s <span class=\"says\">dice:</span>"
+msgstr "%s <span class=\"says\">sigers:</span>"
 
 #: ../inc/template-tags.php:104
 msgid "Your comment is awaiting moderation."
-msgstr "Il tuo commento è in attesa di moderazione."
+msgstr "Din kommentar afventer godkendelse."
 
 #: ../inc/widgets/widget-popular-posts.php:13
 msgid "Displays tabbed list of popular posts, recent posts & comments"
-msgstr ""
+msgstr "Viser liste med nye og populære indlæg og kommentarer."
 
 #: ../inc/widgets/widget-popular-posts.php:19
 msgid "Dazzling Popular Posts Widget"
-msgstr ""
+msgstr "Dazzling widget med populære indlæg"
 
 #: ../inc/widgets/widget-popular-posts.php:37
 msgid "Popular"
-msgstr "Popolare"
+msgstr "Populære"
 
 #: ../inc/widgets/widget-popular-posts.php:38
 msgid "Recent"
-msgstr "Recente\t"
+msgstr "Nyere"
 
 #: ../inc/widgets/widget-popular-posts.php:115
 msgid "Anonymous"
-msgstr "Anonimo"
+msgstr "Anonyme"
 
 #: ../inc/widgets/widget-popular-posts.php:115
 msgid "on"
-msgstr ""
+msgstr "på"
 
 #: ../inc/widgets/widget-popular-posts.php:156
 msgid "Number of posts to show"
-msgstr "Numero di posts da mostrare"
+msgstr "Antal indlæg, der skal vises"
 
 #: ../inc/woo-setup.php:96
 msgid "View your shopping cart"
-msgstr ""
+msgstr "Se din indkøbsvogn"
 
 #: ../inc/woo-setup.php:97
 msgid "Start shopping"
-msgstr ""
+msgstr "Start køb"
 
 #: ../inc/woo-setup.php:101
-#, fuzzy, php-format
+#, php-format
 msgid "%d item"
 msgid_plural "%d items"
-msgstr[0] "Color del elemento de menu de navegación superior"
-msgstr[1] "Color del elemento de menu de navegación superior"
+msgstr[0] "%d vare"
+msgstr[1] "%d varer"
 
 #: ../search.php:15
 #, php-format
 msgid "Search Results for: %s"
-msgstr "Risultati della ricerca: %s"
+msgstr "Søgeresultater for: %s"
 
 #: ../searchform.php:12
 msgid "Search..."
-msgstr "Cerca…"
+msgstr "Søg..."
 
 #: ../sidebar.php:24
 msgid "Meta"
-msgstr ""
-
-#, fuzzy
-#~ msgid "Theme Options"
-#~ msgstr "Opzioni dei temi"
-
-#, fuzzy
-#~ msgid "Page %s"
-#~ msgstr "Pagina %s"
-
-#~ msgid "Follow us on "
-#~ msgstr "Seguici su"
-
-#, fuzzy
-#~ msgid "Right Sidebar"
-#~ msgstr "Barra laterale destra"
-
-#, fuzzy
-#~ msgid "Left Sidebar"
-#~ msgstr "Barra laterale sinistra"
-
-#~ msgid "One"
-#~ msgstr "Uno"
-
-#~ msgid "Two"
-#~ msgstr "Due"
-
-#~ msgid "Three"
-#~ msgstr "Tre"
-
-#~ msgid "Four"
-#~ msgstr "Quattro"
-
-#~ msgid "Five"
-#~ msgstr "Cinque"
-
-#~ msgid "All rights reserved."
-#~ msgstr "Tutti i diritti riservati."
+msgstr "Meta"
